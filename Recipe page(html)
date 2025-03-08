@@ -1,0 +1,53 @@
+<html>
+<head>
+    <title>Delicious Cake Recipe</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Mumma's Secret Vanilla cake</h1>
+    </header>
+    <main>
+        <section class="introduction">
+            <p>This will be the most delicious cake recipe u will ever see .</p>
+        </section>
+        <section class="ingredients">
+            <h2>Ingredients</h2>
+            <ul>
+                <li>2 cup all-purpose flour</li>
+                <li>1 cup  white or raw sugar</li>
+                <li>1/2 cup oil</li>
+                <li> 1/2 cup milk powder</li>
+                <li> 1 tablespoon vanilla essence</li>
+                <li> 1 tablespoon baking powder</li>
+                <li> 1 cup curd</li>
+                <li> 1/2 tablespoon baking soda</li>
+                
+            </ul>
+        </section>
+        <section class="instructions">
+            <h2>Instructions to make :</h2>
+            <ol>
+                <li>First add 2 cups of all purpose flour with 1 tsp of baking powder and a pinch of salt into a sieve placed over a mixing bowl.</li>
+                <li>Sift the dry ingredients once or twice. Set aside.</li>
+                <li> Grease a 7.5 or 8 inches round pan with some butter. You can line the pan with parchment if you prefer.</li>
+                <li>In another bowl add 1 cup of raw sugar (or white sugar), 1 teaspoon of vanilla extract, 1 cup of curd </li>
+                <li>Whisk briskly until all of the sugar is dissolved and the curd gets evenly mixed. It should be like buttermilk, slightly off-color and foamy.</li>
+                <li>Now add 1/2 teaspoon of baking soda to the wet mixture.</li>
+                <li> Stir until the baking soda is mixed evenly. The baking soda will cause some bubbling in this wet liquid mixture.</li>
+                <li>Add the liquid mixture to the dry sifted ingredients.</li>
+                <li> Mix very well with a wired whisk</li>
+                <li>  Pour the batter into the greased pan.</li>
+                <li>Place the cake pan in the preheated oven on the middle rack. If using an OTG or a regular oven, heat both the top and bottom heating elements.</li>
+                <li> Bake at 180 degrees Celsius (375 degrees Fahrenheit) for 30 to 35 minutes, or until the top crust is golden.</li>
+                <li>Check the doneness of the eggless vanilla cake with a bamboo skewer. It should be clean with no sticky batter on it.</li>
+                <li> Now your cake is completely ready </li>
+                <!-- More instructions -->
+            </ol>
+        </section>
+    </main>
+    <footer>
+        <p> © 2023 by Pahal Budhia. All rights reserved 
+    </footer>
+</body>
+</html>
